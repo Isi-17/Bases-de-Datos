@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Ebury" id="C48755E8-7456-62E4-6048-D4B84222A240" version="3.5">
+<createdBy>vero7</createdBy>
+<createdTime>2022-01-22 13:15:50 UTC</createdTime>
+<ownerDesignName>TRABAJO_EBURY</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>C48755E8-7456-62E4-6048-D4B84222A240</designId>
+</OSDM_Design>
